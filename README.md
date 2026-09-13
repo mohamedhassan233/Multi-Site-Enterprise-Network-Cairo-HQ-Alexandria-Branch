@@ -26,7 +26,6 @@
 11. [⚡ How to Run Lab](#-how-to-run-lab)
 12. [🎓 Learning Outcomes](#-learning-outcomes)
 13. [💡 Repository Info](#-repository-info)
-14. [🔄 Changes from the Original Design](#-changes-from-the-original-design)
 
 ---
 
