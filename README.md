@@ -9,8 +9,6 @@
 ![High Availability](https://img.shields.io/badge/Feature-High%20Availability-success)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-> **Note on this revision:** This README was corrected to match the actual `.pkt` file exported for this lab (13 devices). A few things in the original draft don't exist in real Cisco Packet Tracer and were fixed: 3560-24PS switches only have **2** built-in GigE ports (`Gi0/1`, `Gi0/2` — not `G1/0/1…24`), router↔router links **must be fiber** (not copper), and standby interface-tracking / a second Alexandria management VLAN were removed because they were never implemented in the working config. See **"Changes from the original design"** at the end.
-
 ---
 
 ## 📑 Table of Contents
