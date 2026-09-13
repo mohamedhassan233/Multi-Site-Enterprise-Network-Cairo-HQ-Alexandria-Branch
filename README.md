@@ -24,10 +24,9 @@
 9.  [🌐 NAT/PAT Configuration](#-natpat-configuration)
 10. [✅ Verification & Testing Scenarios](#-verification--testing-scenarios)
 11. [⚡ How to Run Lab](#-how-to-run-lab)
-12. [🧱 Lab Limitations](#-lab-limitations)
-13. [🎓 Learning Outcomes](#-learning-outcomes)
-14. [💡 Repository Info](#-repository-info)
-15. [🔄 Changes from the Original Design](#-changes-from-the-original-design)
+12. [🎓 Learning Outcomes](#-learning-outcomes)
+13. [💡 Repository Info](#-repository-info)
+14. [🔄 Changes from the Original Design](#-changes-from-the-original-design)
 
 ---
 
