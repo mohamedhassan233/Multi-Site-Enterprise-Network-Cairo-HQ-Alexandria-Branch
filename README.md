@@ -59,6 +59,8 @@ The design integrates:
 
 ## 🌐 Network Topology
 
+![Network Topology](network-topology.png)
+
 - **Cairo HQ**
   - **Core Layer:** `CAIRO-CORE-01` (Active) & `CAIRO-CORE-02` (Standby) — 3560-24PS L3 switches, connected via **LACP EtherChannel** on their two built-in GigE ports (`Gi0/1` + `Gi0/2`)
   - **Access Layer:** `CAIRO-ACCESS-SW01` (2960-24TT) — dual-homed trunk to both core switches, with Port Security + BPDU Guard + DHCP Snooping
